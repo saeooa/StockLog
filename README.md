@@ -1,8 +1,8 @@
-# newStockLog
+# StockLog
 
 ## 프로젝트 소개
 **주식 매매 일지 시스템: 스톡로그 **</br>
-:  </br>
+: 현재의 주식 매매 일지 시스템을 개선하여 만든 </br>
 
 
 ### 📅 개발 기간
@@ -18,3 +18,6 @@
 ![intellij idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 </br>
 + 사용한 dataset </br>
+
+
+
